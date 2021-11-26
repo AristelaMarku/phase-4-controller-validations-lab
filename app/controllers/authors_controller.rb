@@ -21,4 +21,6 @@ class AuthorsController < ApplicationController
     params.permit(:email, :name)
   end
   
+ 
+
 end
